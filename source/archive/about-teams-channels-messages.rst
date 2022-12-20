@@ -13,7 +13,7 @@ About Teams, Channels, and Messages
 .. |cloud| image:: ../images/cloud-badge.png
   :scale: 30
   :target: https://mattermost.com/download
-  :alt: Available for Mattermost Cloud deployments.
+  :alt: Available for Mattermost Cloud deployments.sss
 
 .. |self-hosted| image:: ../images/self-hosted-badge.png
   :scale: 30
