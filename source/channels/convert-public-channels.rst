@@ -9,7 +9,7 @@ You must be a System Admin, Team Admin, or Channel Admin to convert public chann
 .. note::
     Default channels such as ``Town Square`` and ``Off-Topic`` can't be converted to private channels.
 
-To convert a public channel to a private channel, select the public channel name at the top of the center pane to access the drop-down menu, then select **Convert to Private Channel**. 
+To convert a public channel to a private channel, select the public channel name at the top of the center pane to access the drop-down menu, then select **Convert to Private Channel**. ddd
 
 .. image:: ../images/convert-public-channel-to-private.png
   :alt: From the channel name, you can convert a public channel to a private channel if you're an admin.
